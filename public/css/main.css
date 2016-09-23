@@ -16,9 +16,12 @@ body {
 .box-md {
 
 
+
+
 }
 
 .box-lg{
+
 
 
 }
@@ -31,25 +34,27 @@ body {
   width: 1000px;
   height: 500px;
   background-color: yellow;
-  margin: 0 auto;
-
+  margin: 10% 150px;
+  display: flex;
 
 }
 
 #red {
   background-color:red;
-  width: 500px;
-  height: 250px;
+  width: 67%;
+  height: 57%;
   border: 10px solid black;
-  margin: 0 auto;
-
+  display: flex;
+  margin:10% auto;
 
 }
 
 #blue {
-  background-color:blue;
-  width:250px;
-  height: 125px;
-  margin: 0 auto;
+  background-color: cyan;
+  width: 75%;
+  height: 67%;
+  display: flex;
+  margin: 7% auto;
+
 
 }
